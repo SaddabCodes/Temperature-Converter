@@ -1,0 +1,36 @@
+body {
+  background-color: #023047;
+  padding: 50px 100px;
+}
+h1 {
+  text-align: center;
+  color: #fcf6bd;
+}
+h1:hover {
+  color: #ffea00;
+  transition-duration: 2s;
+}
+
+#container {
+  display: inline-block;
+  margin-left: 23%;
+  text-align: center;
+  background-color: #001845;
+  border-radius: 30px;
+  padding: 100px;
+}
+
+.input-div {
+  display: inline-block;
+}
+
+.inp {
+  font-size: 30px;
+  font-weight: bold;
+  width: 250px;
+}
+
+label {
+  font-size: 25px;
+  color: #8338ec;
+}
